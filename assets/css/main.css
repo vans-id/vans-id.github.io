@@ -2792,6 +2792,7 @@ button:disabled,
 }
 
 .spotlight .content {
+  flex-direction: column;
   padding: 2em 4em 0.1em 4em;
   -moz-order: 2;
   -webkit-order: 2;
